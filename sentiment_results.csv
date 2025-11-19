@@ -1,0 +1,4 @@
+review,cleaned,polarity,sentiment
+This is a great product!,great product,0.8,Positive
+I don't like it.,dont like,0.0,Neutral
+"Okay, but could be better...",okay could better,0.5,Positive
